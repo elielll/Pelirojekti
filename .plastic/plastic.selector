@@ -1,0 +1,3 @@
+rep "Pelirojekti@miikkaM@cloud"
+  path "/"
+    smartbranch "/main"
