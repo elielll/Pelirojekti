@@ -1,3 +1,3 @@
 # Pelirojekti
 
-This is 2D-game made with Unity. THis project has been moved from Unity in github.
+This is 2D-game made with Unity. This project has been moved from Unity in github.
